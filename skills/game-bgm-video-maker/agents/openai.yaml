@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game BGM Video Maker"
+  short_description: "Create polished YouTube BGM loop videos."
+  default_prompt: "Create a YouTube-ready BGM loop video from local game or ambience footage and music, removing UI where needed, adding smooth scene transitions, an opening title, review images, and organized final outputs."
