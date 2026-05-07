@@ -1,0 +1,19 @@
+{
+  "segments": [
+    {
+      "file": "source-footage-01.mp4",
+      "start": 12.5,
+      "end": 42.5,
+      "duration": 30.0
+    },
+    {
+      "file": "source-footage-02.mp4",
+      "start": 8.0,
+      "end": 38.0,
+      "duration": 30.0
+    }
+  ],
+  "settings": {
+    "note": "Place this file next to the referenced source videos, or adjust file paths accordingly."
+  }
+}
