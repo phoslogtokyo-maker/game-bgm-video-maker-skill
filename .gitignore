@@ -1,0 +1,33 @@
+.DS_Store
+.clang-module-cache/
+.skill_build/
+
+# Source media and rendered outputs should stay out of the public skill repo.
+sozai_movie/
+sozai_music/
+00_FINAL/
+80_work/
+*.mp4
+*.mov
+*.m4v
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.flac
+
+# Generated metadata and review artifacts.
+*_segments.json
+*_segments.csv
+*_review.jpg
+*_review.png
+contact_sheet*.jpg
+title_overlay.png
+
+# Python local state.
+__pycache__/
+*.pyc
+.venv/
+venv/
